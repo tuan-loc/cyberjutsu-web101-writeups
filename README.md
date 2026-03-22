@@ -35,6 +35,7 @@ Training completed on CyberJutsu Web101.
 ## Repository Structure
 
 01-untrusted-data/ -> Untrusted Data
+02-file-upload/ -> File Upload
 
 ---
 
